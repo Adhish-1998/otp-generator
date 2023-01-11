@@ -1,5 +1,5 @@
-var sid = "ACf0db510e5f4f817a2c6668e07ba24506";
-var auth_token = "e6d2a70e5d3ae64f2878b0d39e3a2e7d";
+var sid = "Enter Sid";
+var auth_token = "Enter Token";
 let otp = "123456"
 var twilio = require("twilio")(sid, auth_token);
 
